@@ -328,7 +328,7 @@ a:hover.sottolineatura {
 
 .banner {
   text-align: center;
-  font-family: var(--font-bold);
+  font-family: var(--font-varbold);
   font-size: 7rem;
   line-height: 3rem;
   color: black;
