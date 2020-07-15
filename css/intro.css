@@ -389,12 +389,12 @@ a:hover.sottolineatura {
 
 #PrevVIOLA {
   margin-left: 1.5rem;
-  width: 63%;
+  width: 100%;
   cursor: pointer;
 }
 
 #NextVIOLA {
-  width: 63%;
+  width: 60%;
   margin-right: 1.5rem;
   float: right;
   cursor: pointer;
@@ -428,13 +428,13 @@ a:hover.sottolineatura {
 
 #PrevYELLOW {
   margin-left: 1.5rem;
-  width: 63%;
+  width: 100%;
   cursor: pointer;
   margin-bottom: -14.5rem;
 }
 
 #gotoquiz {
-  width: 200%;
+  width: 250%;
   margin-right: 1.5rem;
   float: right;
   cursor: pointer;
